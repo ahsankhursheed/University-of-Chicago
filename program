@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <title>University</title>
+</head>
+<body>
+    <section class="sub-header">
+        <nav>
+            <a href="index.html"><img src="./images/logo1.png" alt=""></a>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="about.html">ABOUT</a></li>
+                    <li><a href="program.html">PROGRAMS</a></li>
+                    <li><a href="blog.html">BLOG</a></li>
+                    <li><a href="contact.html">CONTACT</a></li>
+                </ul>
+            </div>
+        </nav>
+        <h1>OUR PROGRAMS!</h1>
+    </section>
+    
+    <section class="course">
+        <h1>Discover the Academic Programs We Offer!</h1>
+        <p class="sub-p">University of Chicago University offers a wide range of<br> undergraduate, graduate, and professional degree programs across various disciplines.</p>
+        
+        <div class="row">
+            <div class="course-col">
+                <h3>UNDERGRADUATE</h3>
+                <p>University of Chicago offers a wide variety of undergraduate programs, providing students with a strong foundation in their chosen field of study. These programs prepare students for a successful career or for further graduate-level education. The university's undergraduate programs are designed to provide students with the knowledge and skills needed to excel in today's competitive job market.</p>
+            </div>
+            <div class="course-col">
+                <h3>GRADUATE</h3>
+                <p>University of Chicago's graduate programs are designed for students who wish to continue their education and develop specialized knowledge in a specific field. These programs offer advanced coursework and research opportunities, preparing students for leadership roles in their chosen profession. The university's graduate programs are recognized for their high-quality curriculum, experienced faculty and state-of-the-art facilities..</p>
+            </div>
+            <div class="course-col">
+                <h3>PROFESSIONAL</h3>
+                <p>University of Chicago also offers professional programs which provide students with the education and training necessary to pursue a career in specific fields such as law, medicine, dentistry, pharmacy, veterinary medicine and education. These programs offer rigorous coursework and hands-on training, preparing students for the professional challenges they will face upon graduation. </p>
+            </div>
+        </div>
+
+    
+    </section>
+
+    <section class="footer-d">
+        <footer>
+            <div class="container">
+              <div class="social-icons">
+                <a href="#"><i class="fab fa-facebook-square fa-2x"></i></a>
+                <a href="#"><i class="fab fa-twitter-square fa-2x"></i></a>
+                <a href="#"><i class="fab fa-instagram fa-2x"></i></a>
+                <a href="#"><i class="fab fa-linkedin fa-2x"></i></a>
+              </div>
+              <div class="copyright">
+                <p>Copyright <i class="far fa-copyright"></i> 2023 - All rights reserved</p>
+              </div>
+            </div>
+          </footer>
+        </section>
+</body>
+</html>
