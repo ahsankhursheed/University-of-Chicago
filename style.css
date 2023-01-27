@@ -98,10 +98,10 @@ nav img {
 }
 
 footer {
-    background-color: #800000; /* Dark red */
-    color: #F5A623; /* Light red */
+    background-color: #800000; 
     padding: 20px;
     text-align: center;
+    margin-top: 50px;
   }
   
 .social-icons a {
